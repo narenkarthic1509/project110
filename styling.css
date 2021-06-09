@@ -1,0 +1,14 @@
+.header_div{
+  background-color: white;
+  box-shadow: 5px 5px 18px white;
+  border-radius: 18px;
+}
+
+#case_study{
+  font-family: 'Mate SC', serif;
+}
+
+.main_div{
+  background-color: moccasin;
+  box-shadow: 5px 5px 18px white;
+}
